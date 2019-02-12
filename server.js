@@ -57,9 +57,6 @@ function handleEvent(event){
     var url = 'https://fathomless-reaches-36581.herokuapp.com/api?lat=18.77769165814301&long=98.95345357232975';
 
     //{ json: true, body: requestData }
- 
-   // hello
-
 
     let msg = {
       // type: "text",
